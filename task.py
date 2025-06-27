@@ -172,5 +172,9 @@ def delete_teach(id):
     return redirect('/admin_view_teachers')
 
 
+print("hello")
+print("hai")
+print("flaskkkk")
+print('welcome')
 if __name__=="__main__":
     app.run(debug=True)
